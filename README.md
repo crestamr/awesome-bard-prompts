@@ -4,13 +4,8 @@
 
 The interactive artificial intelligence [Google-Bard](https://bard.google.com/) released by [Google AI](https://ai.google/) officially supports `English`. Therefore, we share prompts for better use of Google Bard. [Amazing-Bard-Prompts](https://github.com/crestamr/awesome-bard-prompts) is a fork of [Awesome-ChatGPT-Prompts](https://github.com/f/awesome-chatgpt-prompts). Contributors can modify [CSV files](https://github.com/crestamr/awesome-bard-prompts/tree/main/prompts) to edit, review, and suggest prompts that are suitable for Google Bard. I hope there will be more prompts for Google Bard in the future.
 
-- [Amazing Bard Prompts VOL.1](https://github.com/crestamr/awesome-bard-prompts)
-- [Amazing Bard Prompts VOL.2](https://github.com/crestamr/awesome-bard-prompts/blob/main/README2.md)
-
 # Bard Prompts CSV files
-- Korean: https://github.com/crestamr/awesome-bard-prompts/blob/main/bard_prompts/bard_prompts_korean.csv
-- English: https://github.com/crestamr/awesome-bard-prompts/blob/main/bard_prompts/bard_prompts_english.csv
-- Japanese: https://github.com/crestamr/awesome-bard-prompts/blob/main/bard_prompts/bard_prompts_japanese.csv
+- https://github.com/crestamr/awesome-bard-prompts/blob/main/prompts.csv
 
 # Contribute to [Amazing-Bard-Prompts](https://github.com/crestamr/awesome-bard-prompts)
 Please modify the contents in the [bard_prompts folder](https://github.com/crestamr/awesome-bard-prompts/tree/main/bard_prompts) only.
